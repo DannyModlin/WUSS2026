@@ -1,7 +1,7 @@
 # WUSS2026
 
 ## Gaining Access to SAS Viya for Learners:
-If you have an EDU email, make sure that you are using that EDU email when logging into your SAS profile at learn.sas.com. If you have not created your SAS profile with your EDU credentials, please go ahead and do that by going to the Sign in page at learn.sas.com and scrolling down to the New User? area.
+If you have an EDU email, make sure that you are using that EDU email when logging into your SAS profile at learn.sas.com. If you have not created your SAS profile with your EDU credentials, please go ahead and do that by going to the Sign in page at https://learn.sas.com and scrolling down to the New User? area.
 <img width="838" height="337" alt="image" src="https://github.com/user-attachments/assets/8fb9e47a-bd7a-4bef-bba3-0664d236e636" />
 
 Once you have logged into the Totara system using your EDU credentials, you will have access to the SAS Viya for Learners territory. https://learn.sas.com/course/view.php?id=6825
@@ -11,11 +11,14 @@ But what if you do not have EDU credentials but you do have a SAS profile? Can y
 Log into your SAS Profile at learn.sas.com.
 Click on My Training in the upper right corner next to the cart icon.
 Find and click the Activate a Product button under the welcome area at the top.
+
 <img width="457" height="159" alt="image" src="https://github.com/user-attachments/assets/85909730-1dc3-43a4-a253-9d9560999170" />
+
 In the popup that appears, copy and paste this code into the textbox: FS00998165026
 Click Activate.
 You will then have access to the SAS Viya for Learners territory. https://learn.sas.com/course/view.php?id=6825
 
+------------------------------------------------------------
 
 
 ## PROC PFF: Past, Present, and Future
