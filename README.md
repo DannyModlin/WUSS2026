@@ -1,22 +1,26 @@
 # WUSS2026
 
 ## Gaining Access to SAS Viya for Learners:
-If you have an EDU email, make sure that you are using that EDU email when logging into your SAS profile at learn.sas.com. If you have not created your SAS profile with your EDU credentials, please go ahead and do that by going to the Sign in page at https://learn.sas.com and scrolling down to the New User? area.
+### You have an EDU email address
+
+1. If you have an EDU email, make sure that you are using that EDU email when logging into your SAS profile at learn.sas.com. If you have not created your SAS profile with your EDU credentials, please go ahead and do that by going to the Sign in page at https://learn.sas.com and scrolling down to the New User? area.
 <img width="838" height="337" alt="image" src="https://github.com/user-attachments/assets/8fb9e47a-bd7a-4bef-bba3-0664d236e636" />
 
-Then to activate your connection to SAS Viya for Learners, proceed to https://www.sas.com/en_us/software/viya-for-learners.html and select the correct description of you. (Educator or Student) Activate the product following the directions on the screen and agree to the license agreement. Once complete, you will be redirected to the SAS Viya for Learners area. https://learn.sas.com/course/view.php?id=6825
+2. Then to activate your connection to SAS Viya for Learners, proceed to https://www.sas.com/en_us/software/viya-for-learners.html and select the correct description of you. (Educator or Student) Activate the product following the directions on the screen and agree to the license agreement. Once complete, you will be redirected to the SAS Viya for Learners area. https://learn.sas.com/course/view.php?id=6825
+
+### You do NOT have an EDU email address
 
 But what if you do not have EDU credentials but you do have a SAS profile? Can you still have access to SAS Viya for Learners? Yes, you will be granted access during the timeframe of WUSS 2026. Here is what you need to do:
 
-Log into your SAS Profile at learn.sas.com.
-Click on My Training in the upper right corner next to the cart icon.
-Find and click the Activate a Product button under the welcome area at the top.
+1. Log into your SAS Profile at learn.sas.com.
+2. Click on My Training in the upper right corner next to the cart icon.
+3. Find and click the Activate a Product button under the welcome area at the top.
 
 <img width="457" height="159" alt="image" src="https://github.com/user-attachments/assets/85909730-1dc3-43a4-a253-9d9560999170" />
 
-In the popup that appears, copy and paste this code into the textbox: FS00998165026
+4. In the popup that appears, copy and paste this code into the textbox: **FS00998165026**
 
-Click Activate and agree to the license agreement.
+5. Click Activate and agree to the license agreement.
 You will then have access to the SAS Viya for Learners territory. https://learn.sas.com/course/view.php?id=6825
 
 ------------------------------------------------------------
